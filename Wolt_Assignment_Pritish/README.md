@@ -1,4 +1,4 @@
-# Wolt Grade - Junior Engineer Program Assignment - Pritish Naik <a name="TOP"></a>
+# Wolt Grade - Software Engineer Program Assignment - Pritish Naik <a name="TOP"></a>
 
 ## Requirements
 
